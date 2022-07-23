@@ -15,3 +15,9 @@
 <br>📫 How to reach me: <a href="samiyanurislam@brandeis.edu" target="_blank">♡ My Email ♡</a>
 <br>👧🏽 Pronouns: She/Her/Hers </br>
 
+Languages and Tools: <br>
+[![My Skills](https://skillicons.dev/icons?i=javascript,css,docker,discord,eclipse,heroku,mtysql,react,nodejs,mongodb,wordpress,python,java,cs,powershell,flutter,git,atom,cpp,unity,figma,illustrator,angular,photoshop
+)](https://skillicons.dev)
+</br>
+
+![Samiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=outrun&show_icons=true)
