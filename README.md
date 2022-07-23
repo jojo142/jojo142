@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! Samiya here ฅ՞•ﻌ•՞ต
 
-<!--
-**jojo142/jojo142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am a software developer and a generative artist.
+![](https://komarev.com/ghpvc/?username=jojo142&color=ff69b4)
 
-Here are some ideas to get you started:
+![image](https://user-images.githubusercontent.com/76130563/180589614-2dcfda3c-0fd3-4928-9e94-eea0cf9a28a6.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Chrome Extension: <a href="https://chrome.google.com/webstore/detail/agendussy/fjkeibaligkgcgdjocidpobcdkboibcd" target="_blank">Agendussy</a>    
+
+<br>🔭 I’m currently working on game app on unity.
+<br>🌱 I’m currently learning Node Js, Angular Js and Three Js
+<br>🦄 I’m looking to collaborate on open source projects
+<br>🤔 I’m looking for help with container orcestration tools for app deployment.
+<br>🧠 I am a certified UX Designer, Data Analyst and Program Manager. 
+<br>📫 How to reach me: <a href="samiyanurislam@brandeis.edu" target="_blank">♡ My Email ♡</a>
+<br>👧🏽 Pronouns: She/Her/Hers </br>
+
