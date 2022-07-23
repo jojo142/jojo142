@@ -20,4 +20,4 @@ Languages and Tools: <br>
 )](https://skillicons.dev)
 </br>
 
-![Samiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=outrun&show_icons=true)
+![Samiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojo142&theme=outrun&show_icons=true)
