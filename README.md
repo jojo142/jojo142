@@ -1,6 +1,6 @@
 ### Hi there! Samiya here ฅ՞•ﻌ•՞ต
 
-# I am a software developer and a generative artist.
+# I am a creative developer, software engineer and a generative artist.
 ![](https://komarev.com/ghpvc/?username=jojo142&color=ff69b4)
 
 ![image](https://user-images.githubusercontent.com/76130563/180589614-2dcfda3c-0fd3-4928-9e94-eea0cf9a28a6.png)
