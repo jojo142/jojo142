@@ -19,5 +19,3 @@ Languages and Tools: <br>
 [![My Skills](https://skillicons.dev/icons?i=javascript,css,docker,discord,eclipse,heroku,mtysql,react,nodejs,mongodb,wordpress,python,java,cs,powershell,flutter,git,atom,cpp,unity,figma,illustrator,angular,photoshop
 )](https://skillicons.dev)
 </br>
-
-![Samiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojo142&theme=outrun&show_icons=true)
