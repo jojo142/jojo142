@@ -8,9 +8,9 @@
 #### Chrome Extension: <a href="https://chrome.google.com/webstore/detail/agendussy/fjkeibaligkgcgdjocidpobcdkboibcd" target="_blank">Agendussy</a>    
 
 <br>🔭 I’m currently working on game app on unity.
-<br>🌱 I’m currently learning Node Js, Angular Js and Three Js
-<br>🦄 I’m looking to collaborate on open source projects
-<br>🤔 I’m looking for help with container orcestration tools for app deployment.
+<br>🌱 I’m currently learning Nextjs, Angular Js and Three Js.
+<br>🦄 I’m looking to collaborate on open source projects.
+<br>🤔 I’m looking for help with BLENDERrrr ;-; and container orcestration tools for app deployment.
 <br>🧠 I am a certified UX Designer, Data Analyst and Program Manager. 
 <br>📫 How to reach me: <a href="samiyanurislam@brandeis.edu" target="_blank">♡ My Email ♡</a>
 <br>👧🏽 Pronouns: She/Her/Hers </br>
