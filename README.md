@@ -9,7 +9,7 @@
 <br>🦄 I’m looking to collaborate on open source projects.
 <br>🤔 I’m looking for help with C# and BLENDERrrr ;-;
 <br>😎 Ask me about Threejs, WebGl, MongoDB, Heruko, Netlify, NPM, NodeJs, HTML5, EJS, Javascript ES6, Github Pages.
-<br>🧠 I am a certified UX Designer, Data Analyst and Program Manager. 
+<br>🧠 I am a certified UX Designer, Data Analyst, IT Support Professional and Program Manager. 
 <br>📫 How to reach me: <a href="samiyanurislam@brandeis.edu" target="_blank">♡ My Email ♡</a><br>
 
 Languages and Tools: <br>
