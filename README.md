@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=jojo142&color=ff69b4)
 
 #### Chrome Extension: <a href="https://chrome.google.com/webstore/detail/agendussy/fjkeibaligkgcgdjocidpobcdkboibcd" target="_blank">Agendussy</a>    
-<br>🔭 Hi I am Samiya. I’m currently working on making a game app on with C#(Unity).
+<br>🔭 Hi I am Samiya. I’m currently working on making a game app with C#(Unity).
 <br>🌱 I’m also learning Nextjs, Angular Js and Vue.
 <br>🦄 I’m looking to collaborate on open source projects.
 <br>🤔 I’m looking for help with C# and BLENDERrrr ;-;
