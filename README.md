@@ -2,6 +2,7 @@
 
 # I am a creative developer, software engineer and a generative artist.
 ![](https://komarev.com/ghpvc/?username=jojo142&color=ff69b4)
+<img align="right" alt="Coding" width="400" src = "Female Developer.svg" alt="My Happy SVG"/>
 
 #### Chrome Extension: <a href="https://chrome.google.com/webstore/detail/agendussy/fjkeibaligkgcgdjocidpobcdkboibcd" target="_blank">Agendussy</a>    
 <br>🔭 Hi I am Samiya. I’m currently working on making a game app with C#(Unity).
