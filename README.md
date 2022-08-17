@@ -2,14 +2,14 @@
 
 # I am a creative developer, software engineer and a generative artist.
 ![](https://komarev.com/ghpvc/?username=jojo142&color=ff69b4)
-<img align="right" alt="Coding" width="400" src = "Female Developer.svg" alt="My Happy SVG"/>
+<img align="right" alt="Coding" width="360" src = "Female Developer.svg" alt="My Happy SVG"/>
 
 #### Chrome Extension: <a href="https://chrome.google.com/webstore/detail/agendussy/fjkeibaligkgcgdjocidpobcdkboibcd" target="_blank">Agendussy</a>    
-<br>🔭 Hi I am Samiya. I’m currently working on making a game app with C#(Unity).
+<br>🔭 Hi I am Samiya. I’m currently making a game app with C#(Unity).
 <br>🌱 I’m also learning Nextjs, Angular Js and Vue.
 <br>🦄 I’m looking to collaborate on open source projects.
 <br>🤔 I’m looking for help with C# and BLENDERrrr ;-;
-<br>😎 Ask me about Threejs, WebGl, MongoDB, Heruko, Netlify, NPM, NodeJs, HTML5, EJS, Javascript ES6, Github Pages.
+<br>😎 Ask me about Threejs, WebGl, MongoDB, Heruko,Netlify,NodeJs, JavascriptES6
 <br>🧠 I am a certified UX Designer, Data Analyst, IT Support Professional and Program Manager. 
 <br>📫 How to reach me: <a href="samiyanurislam@brandeis.edu" target="_blank">♡ My Email ♡</a><br>
 
