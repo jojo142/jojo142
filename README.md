@@ -16,3 +16,4 @@ Languages and Tools: <br>
 [![My Skills](https://skillicons.dev/icons?i=javascript,css,docker,discord,eclipse,heroku,react,nodejs,mongodb,wordpress,python,java,cs,powershell,flutter,git,atom,cpp,unity,figma,illustrator,angular,photoshop
 )](https://skillicons.dev)
 </br>
+![](https://github.com/jojo142/jojo142/main/bottom_header.svg)
