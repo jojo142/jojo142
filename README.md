@@ -1,6 +1,6 @@
-### Hi there! Samiya here ฅ՞•ﻌ•՞ต
+<p align="center">Hi there! Samiya here ฅ՞•ﻌ•՞ต </p>
 
-# I am a creative developer, software engineer and a generative artist.
+# I'm a creative developer, software engineer and a generative artist.
 ![](https://komarev.com/ghpvc/?username=jojo142&color=ff69b4)
 <img align="right" alt="Coding" width="360" src = "Female Developer.svg" alt="My Happy SVG"/>
 
