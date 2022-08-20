@@ -6,7 +6,7 @@
 
 #### Chrome Extension: <a href="https://chrome.google.com/webstore/detail/agendussy/fjkeibaligkgcgdjocidpobcdkboibcd" target="_blank">Agendussy</a>    
 <br>🔭 Hi I am Samiya. I’m currently making a game app with C#(Unity).
-<br>🌱 I’m also learning C# and blender.
+<br>🌱 I’m also learning C#
 <br>🦄 I’m looking to collaborate on open source projects.
 <br>🤔 I’m looking for help with C# and BLENDERrrr ;-;
 <br>😎 Ask me about Threejs, WebGl, MongoDB, Heruko,Netlify,NodeJs, JavascriptES6
