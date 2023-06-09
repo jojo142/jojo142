@@ -1,6 +1,7 @@
-<p align="center">Hi there!  ฅ՞•ﻌ•՞ต </p>
+<p align="center">Hi there! I'm Samiya  ฅ՞•ﻌ•՞ต </p>
 
-# I'm a creative developer, software engineer and a generative artist.
+## I'm a creative developer, software engineer, generative artist, and quantitative enthusiast. 
+With a diverse skill set in coding, software engineering, and data analysis, I bring a unique blend of creativity and quantitative rigor to my work. From crafting visually stunning generative art pieces to developing sophisticated quantitative models, I combine my passion for creativity and quantitative analysis to push the boundaries of innovation. Through the convergence of technology, art, and finance, I strive to create impactful and visually captivating experiences that resonate with audiences and drive data-informed decision-making."
 ![](https://komarev.com/ghpvc/?username=jojo142&color=ff69b4)
 <img align="right" alt="Coding" width="360" src = "Female Developer.svg" alt="My Happy SVG"/>
 
