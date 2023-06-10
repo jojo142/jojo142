@@ -9,8 +9,7 @@ With a diverse skill set in coding, software engineering, and data analysis, I b
 
 #### Chrome Extension: <a href="https://chrome.google.com/webstore/detail/agendussy/fjkeibaligkgcgdjocidpobcdkboibcd" target="_blank">Agendussy</a>    
 <br>🔭 Hi. I’m currently making a game app with C#(Unity).
-<br>🦄 I’m looking to collaborate on open source projects.
-<br>😎 Ask me about Threejs, WebGl, MongoDB, Heruko, Netlify,NodeJs, JavascriptES6
+<br>🦄 I’m an undergrad studying CS and Business and looking to collaborate on open source projects.
 <br>🧠 I am a certified UX Designer, Data Analyst, IT Support Professional and Program Manager. 
 
 Languages and Tools: <br>
