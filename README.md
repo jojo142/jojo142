@@ -7,10 +7,10 @@ With a diverse skill set in coding, software engineering, and data analysis, I b
 ![](https://komarev.com/ghpvc/?username=jojo142&color=ff69b4)
 <img align="right" alt="Coding" width="360" src = "Female Developer.svg" alt="My Happy SVG"/>
 
+#### Game: <a href="https://bunnydash.netlify.app/" target="_blank">Bunny Dash</a>   
 #### Chrome Extension: <a href="https://chrome.google.com/webstore/detail/agendussy/fjkeibaligkgcgdjocidpobcdkboibcd" target="_blank">Agendussy</a>    
 <br>🔭 Hi. I’m currently making a game app with C#(Unity).
 <br>🦄 I’m an undergrad studying CS and Business.
-<br>📢 I am looking to collaborate on open source projects.
 <br>🧠 I am a certified UX Designer, Data Analyst, IT Support Professional and Program Manager. 
 
 Languages and Tools: <br>
