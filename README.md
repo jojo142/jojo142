@@ -17,8 +17,8 @@
 <br>🦄 Undergrad studying CS and Business.
 <br>🧠 I am a certified UX Designer, Data Analyst, IT Support Professional & PM. </br>
 
-Languages and Tools: <br>
-[![My Skills](https://skillicons.dev/icons?i=javascript,css,docker,discord,eclipse,heroku,react,nodejs,mongodb,wordpress,python,java,cs,powershell,flutter,git,atom,cpp,unity,figma,illustrator,angular,photoshop
+### Languages and Tools: 
+<be> [![My Skills](https://skillicons.dev/icons?i=javascript,css,docker,discord,eclipse,heroku,react,nodejs,mongodb,wordpress,python,java,cs,powershell,flutter,git,atom,cpp,unity,figma,illustrator,angular,photoshop
 )](https://skillicons.dev)
 </br>
 <img src = "bottom_header.svg" alt="My Happy SVG"/>
