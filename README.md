@@ -8,6 +8,7 @@
 <li> Three.js Game: <a href="https://bunnydash.netlify.app/" target="_blank">Bunny Dash</a>   
 <li> Chrome Extension: <a href="https://chrome.google.com/webstore/detail/agendussy/fjkeibaligkgcgdjocidpobcdkboibcd" target="_blank">Agendussy</a>    
 
+### About me: 
 <br>🔭 Hi. I’m currently making a game app with C#(Unity).
 <br>🦄 I’m an undergrad studying CS and Business.
 <br>🧠 I am a certified UX Designer, Data Analyst, IT Support Professional and Program Manager. </br>
