@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=jojo142&color=ff69b4)
 <img align="right" alt="Coding" width="360" src = "Female Developer.svg" alt="My Happy SVG"/>
-### Products: 
+### My projects: 
 <li> Three.js Game: <a href="https://bunnydash.netlify.app/" target="_blank">Bunny Dash</a>   
 <li> Chrome Extension: <a href="https://chrome.google.com/webstore/detail/agendussy/fjkeibaligkgcgdjocidpobcdkboibcd" target="_blank">Agendussy</a> 
 
