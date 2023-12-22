@@ -1,3 +1,4 @@
+<img src = "up.svg" alt="My Happy SVG"/>
 <p align="center">Hi there! I'm Samiya  ฅ՞•ﻌ•՞ต </p>
 <h2 align="center"> I'm a software engineer, generative artist, and quantitative enthusiast. </h2>
 <br>With a diverse skill set in coding, software engineering, and data analysis, I bring a unique blend of creativity and quantitative rigor to my work. From crafting visually stunning generative art pieces to developing sophisticated quantitative models, I combine my passion for creativity and quantitative analysis to push the boundaries of innovation. Through the convergence of technology, art, and finance, I strive to create impactful and visually captivating experiences that resonate with audiences and drive data-informed decision-making.
