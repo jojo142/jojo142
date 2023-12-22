@@ -5,16 +5,13 @@
 
 ![](https://komarev.com/ghpvc/?username=jojo142&color=ff69b4)
 
-### My projects: 
+#### My projects: 
 <li> Three.js Game: <a href="https://bunnydash.netlify.app/" target="_blank">Bunny Dash</a>   
 <li> Chrome Extension: <a href="https://chrome.google.com/webstore/detail/agendussy/fjkeibaligkgcgdjocidpobcdkboibcd" target="_blank">Agendussy</a> 
 
-### About me: 
-<br>🔭 Currently making a game app with C#(Unity).
-<br>🦄 Undergrad studying CS and Business.
-
-### Languages and Tools: 
-<be> [![My Skills](https://skillicons.dev/icons?i=javascript,css,docker,discord,eclipse,heroku,react,nodejs,mongodb,wordpress,python,java,cs,powershell,flutter,git,atom,cpp,unity,figma,illustrator,angular,photoshop
-)](https://skillicons.dev)
-</br>
+#### About me: 
+<img src = "game.svg" height = 25 width = 25/> Currently making a game app with C#(Unity).<br>
+<img src = "comp.svg" height = 20 width = 20/> Undergrad studying CS and Business.
+#### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=javascript,css,docker,discord,eclipse,heroku,react,nodejs,mongodb,wordpress,python,java,cs,powershell,flutter,git,atom,cpp,unity,figma,illustrator,angular,photoshop)](https://skillicons.dev)
 <img src = "bottom_header.svg" alt="My Happy SVG"/>
