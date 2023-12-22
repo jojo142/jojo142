@@ -1,5 +1,5 @@
 <img src = "up.svg" alt="My Happy SVG"/>
-<p align="center"><a href="https://www.fontspace.com/category/3d" target="_blank"><img src="https://see.fontimg.com/api/renderfont4/x32mO/eyJyIjoiZHciLCJoIjo4NCwidyI6MjAwMCwiZnMiOjQyLCJmZ2MiOiIjODM0RjRGIiwiYmdjIjoiI0ZGRkZGRiJ9/SGkgdGhlcmUsIEknbSBTYW1peWEg/purplemagicdemo-svg.png" alt="3D fonts">
+<p align="center"><a href="https://www.fontspace.com/category/funky"><img src="https://see.fontimg.com/api/renderfont4/DOj8m/eyJyIjoiZHciLCJoIjo4NCwidyI6MjAwMCwiZnMiOjQyLCJmZ2MiOiIjRUZCQ0IwIiwiYmdjIjoiI0ZGRkZGRiJ9/SGkgdGhlcmUsIEknbSBTYW1peWEg/kawayjampersonaluse-regular.png" alt="Funky fonts">
 </a> </p>
 <h2 align="center"> I'm a software engineer & AI enthusiast ฅ՞•ﻌ•՞ต  </h2>
 <h5 align="center"> I like making games and reading about all the jarring AI updates. I also like food and watching Silicon Valley. </h5>
