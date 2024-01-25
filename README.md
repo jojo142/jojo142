@@ -11,4 +11,4 @@
 #### My projects
 <li>Three.js Game: <a href="https://bunnydash.netlify.app/" target="_blank">Bunny Dash</a></li>
 <li>Chrome Extension: <a href="https://chrome.google.com/webstore/detail/agendussy/fjkeibaligkgcgdjocidpobcdkboibcd" target="_blank">Agendussy</a></li>
-<img src = "bottom_header.svg" alt="My Happy SVG"/>
+
