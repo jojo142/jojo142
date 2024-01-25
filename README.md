@@ -1,5 +1,5 @@
 <img src = "up.svg" alt="My Happy SVG"/>
-<p align="center"><a href="https://www.fontspace.com/category/origami"><img src="https://see.fontimg.com/api/renderfont4/rgLzx/eyJyIjoiZnMiLCJoIjoxMzAsInciOjIwMDAsImZzIjo2NSwiZmdjIjoiIzAwMDAwMCIsImJnYyI6IiNGRkZGRkYiLCJ0IjoxfQ/aGkgaW0gc2FtaXlh/super-candy.png" alt="Origami fonts"></a> </p>
+<p align="center"><a href="https://www.fontspace.com/category/bubble"><img src="https://see.fontimg.com/api/renderfont4/m3W9/eyJyIjoiZnMiLCJoIjo2OCwidyI6MjAwMCwiZnMiOjM0LCJmZ2MiOiIjRUVERkQ5IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/aGkgaW0gc2FtaXlh/kbcurioussoul.png" alt="Bubble fonts"></a> </p>
 
 
 <h2 align="center"> I'm a C++ developer & AI enthusiast ฅ՞•ﻌ•՞ต  </h2>
