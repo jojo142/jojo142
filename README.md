@@ -1,6 +1,7 @@
 <img src = "up.svg" alt="My Happy SVG"/>
-<p align="center"><a href="https://www.fontspace.com/category/funky"><img src="https://see.fontimg.com/api/renderfont4/DOj8m/eyJyIjoiZHciLCJoIjo4NCwidyI6MjAwMCwiZnMiOjQyLCJmZ2MiOiIjRUZCQ0IwIiwiYmdjIjoiI0ZGRkZGRiJ9/SGkgdGhlcmUsIEknbSBTYW1peWEg/kawayjampersonaluse-regular.png" alt="Funky fonts">
-</a> </p>
+<p align="center"><a href="https://www.fontspace.com/category/origami"><img src="https://see.fontimg.com/api/renderfont4/rgLzx/eyJyIjoiZnMiLCJoIjoxMzAsInciOjIwMDAsImZzIjo2NSwiZmdjIjoiIzAwMDAwMCIsImJnYyI6IiNGRkZGRkYiLCJ0IjoxfQ/aGkgaW0gc2FtaXlh/super-candy.png" alt="Origami fonts"></a> </p>
+
+
 <h2 align="center"> I'm a C++ developer & AI enthusiast ฅ՞•ﻌ•՞ต  </h2>
 <h5 align="center"> I like making games and reading about all the jarring AI updates. </h5>
 
