@@ -8,10 +8,10 @@
 <br><img src="comp.svg" alt="Computer Icon" height="30" width="30" style="float: right;"/> Undergrad studying CS and Business.
 <br><img src="cloud-coding.png" height="25" width="25" style="float: right;"/> Skills: Cloud Computing(Microsoft Azure and AWS), Java, JS(node,three,angular), Python, R and C++ , SQL, Tableau
 
-#### Games
+#### Games:
 <li>Three.js Game: <a href="https://bunnydash.netlify.app/" target="_blank">Bunny Dash</a></li>
 
-#### My finished projects
+#### My finished projects:
 <li>Chrome Extension: <a href="https://chrome.google.com/webstore/detail/agendussy/fjkeibaligkgcgdjocidpobcdkboibcd" target="_blank">Agendussy</a></li>
 <li>RepairNet: <a href= "https://repairnet.netlify.app" target="_blank">RepairNet</a></li>
 <li>GroupMatch: <a href= "https://groupmatch.netlify.app" target="_blank">GroupMatch</a></li>
