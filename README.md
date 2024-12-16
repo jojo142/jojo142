@@ -14,3 +14,6 @@
 <li>RepairNet: <a href= "https://repairnet.netlify.app" target="_blank">RepairNet</a></li>
 <li>GroupMatch: <a href= "https://groupmatch.netlify.app" target="_blank">GroupMatch</a></li>
 
+#### Research Papers:
+<li>Data Visualization Project: <a href="https://cosi116a-brandeis-infovis-fall23.github.io/cosi-116a-f24-final-project-repository-team-10/" target="_blank">Housing Inequality in U.S.</a></li>
+
