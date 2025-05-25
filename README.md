@@ -5,7 +5,7 @@
 
 #### About me
 <img src="game.svg" alt="Game Icon" height="30" width="30" style="float: right;"/> Currently making a game on Unity/roblox.
-<br><img src="comp.svg" alt="Computer Icon" height="30" width="30" style="float: right;"/> Undergrad studying CS and Business.
+<br><img src="comp.svg" alt="Computer Icon" height="30" width="30" style="float: right;"/> Undergrad studying CS and Business. Just Graduated actually MAY 2025
 <br><img src="cloud-coding.png" height="25" width="25" style="float: right;"/> Skills: Cloud Computing(Microsoft Azure and AWS), Java, JS(node,three,angular), Python, R and C++ , SQL, Tableau
 
 #### Games:
