@@ -10,6 +10,7 @@
 
 #### Games:
 <li>Three.js Game: <a href="https://bunnydash.netlify.app/" target="_blank">Bunny Dash</a></li>
+<li>Global Dexterity Game: <a href="https://dexteritydash.netlify.app/" target="_blank">Dexterity Dash</a> </li>
 
 #### My finished projects:
 <li>Chrome Extension: <a href="https://chrome.google.com/webstore/detail/agendussy/fjkeibaligkgcgdjocidpobcdkboibcd" target="_blank">Agendussy</a></li>
