@@ -4,9 +4,8 @@
 <h5 align="center"> I like making games and reading about all the jarring AI updates. </h5>
 
 #### About me
-<img src="game.svg" alt="Game Icon" height="30" width="30" style="float: right;"/> Currently making a game on Unity/roblox.
 <br><img src="comp.svg" alt="Computer Icon" height="30" width="30" style="float: right;"/> SWE and MS in Data Analytics
-<br><img src="cloud-coding.png" height="25" width="25" style="float: right;"/> Skills: Cloud Computing(Snowflake, Microsoft Azure and AWS), Java, JS(node,three,angular), Python, R and C++ , SQL, Tableau
+<br><img src="cloud-coding.png" height="25" width="25" style="float: right;"/> Skills: Cloud Computing(Snowflake, Microsoft Azure and AWS), Python, R and C++ , SQL, Tableau
 
 #### Games:
 <li>Three.js Game: <a href="https://bunnydash.netlify.app/" target="_blank">Bunny Dash</a></li>
