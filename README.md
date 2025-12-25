@@ -17,5 +17,19 @@
 <li>GroupMatch: <a href= "https://groupmatch.netlify.app" target="_blank">GroupMatch</a></li>
 
 #### Research Papers:
+<li>Data Analytics Projects:
+    <ul>
+        <li>
+            <a href="https://jojo142.github.io/Transportation-Network-Analysis/" target="_blank">
+                Transportation Network Operations & Delivery Performance Analysis
+            </a>
+        </li>
+        <li>
+            <a href="https://docs.google.com/presentation/d/1be2veczoSOZttc-2fqP3dh8gc3OGWMCXcfKeLgiaYAk/edit?usp=sharing" target="_blank">
+                Rideshare Market Analysis in Boston 2018
+            </a>
+        </li>
+    </ul>
+</li>
 <li>Data Visualization Project: <a href="https://cosi116a-brandeis-infovis-fall23.github.io/cosi-116a-f24-final-project-repository-team-10/" target="_blank">Housing Inequality in U.S.</a></li>
 <li>Computational Social Science Project: <a href="https://jojo142.github.io/US-Immigration-Sentiment-Trend-using-Reddit/" target="_blank">U.S. Immigration Sentiment Analysis due to External Shocks</li>
