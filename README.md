@@ -1,10 +1,8 @@
 <img src = "up.svg" alt="My Happy SVG"/>
 <p align="center"><a href="https://www.fontspace.com/category/bubble"><img src="https://see.fontimg.com/api/renderfont4/m3W9/eyJyIjoiZnMiLCJoIjo2OCwidyI6MjAwMCwiZnMiOjM0LCJmZ2MiOiIjRUVERkQ5IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/aGkgaW0gc2FtaXlh/kbcurioussoul.png" alt="Bubble fonts"></a> </p>
 
-<h5 align="center"> I like making games and reading about all the jarring AI updates. </h5>
-
 #### About me
-<br><img src="comp.svg" alt="Computer Icon" height="30" width="30" style="float: right;"/> SWE and MS in Data Analytics
+<br><img src="comp.svg" alt="Computer Icon" height="30" width="30" style="float: right;"/> MS in Data Analytics
 <br><img src="cloud-coding.png" height="25" width="25" style="float: right;"/> Skills: Cloud Computing(Snowflake, Microsoft Azure and AWS), Python, R and C++ , SQL, Tableau
 
 #### Games:
